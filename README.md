@@ -1,4 +1,4 @@
-<a href="https://vercel.com/connors-projects-6dff75c9/side-quest/5zaSjQt3k9d5Hi2qkyLLuB4hFWKW">App Link</a>
+<a href="https://side-quest-git-main-connors-projects-6dff75c9.vercel.app/">App Link</a>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
